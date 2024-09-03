@@ -1,5 +1,5 @@
 >[!NOTE]
->This concep took me hours to understand perfectly, it may also what will happen with you. But it is very important and worthy concept to understand. Take yoir time with it!!
+>This concep took me hours to understand perfectly, this is may also what will happen with you. But it is very important and worthy concept to understand. It is fine to take your time with it!!
 
 
 # Demo
